@@ -25,4 +25,8 @@ You can click the Preview link to take a look at your changes.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/boddepallihemavarun/boddepallihemavarun/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
